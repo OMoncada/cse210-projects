@@ -1,0 +1,14 @@
+C:\Users\OOSCA\Documents\cse210\prepare\Learning03\bin\Debug\net7.0\Learning03.exe
+C:\Users\OOSCA\Documents\cse210\prepare\Learning03\bin\Debug\net7.0\Learning03.deps.json
+C:\Users\OOSCA\Documents\cse210\prepare\Learning03\bin\Debug\net7.0\Learning03.runtimeconfig.json
+C:\Users\OOSCA\Documents\cse210\prepare\Learning03\bin\Debug\net7.0\Learning03.dll
+C:\Users\OOSCA\Documents\cse210\prepare\Learning03\bin\Debug\net7.0\Learning03.pdb
+C:\Users\OOSCA\Documents\cse210\prepare\Learning03\obj\Debug\net7.0\Learning03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OOSCA\Documents\cse210\prepare\Learning03\obj\Debug\net7.0\Learning03.AssemblyInfoInputs.cache
+C:\Users\OOSCA\Documents\cse210\prepare\Learning03\obj\Debug\net7.0\Learning03.AssemblyInfo.cs
+C:\Users\OOSCA\Documents\cse210\prepare\Learning03\obj\Debug\net7.0\Learning03.csproj.CoreCompileInputs.cache
+C:\Users\OOSCA\Documents\cse210\prepare\Learning03\obj\Debug\net7.0\Learning03.dll
+C:\Users\OOSCA\Documents\cse210\prepare\Learning03\obj\Debug\net7.0\refint\Learning03.dll
+C:\Users\OOSCA\Documents\cse210\prepare\Learning03\obj\Debug\net7.0\Learning03.pdb
+C:\Users\OOSCA\Documents\cse210\prepare\Learning03\obj\Debug\net7.0\Learning03.genruntimeconfig.cache
+C:\Users\OOSCA\Documents\cse210\prepare\Learning03\obj\Debug\net7.0\ref\Learning03.dll
