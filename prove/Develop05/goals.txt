@@ -1,0 +1,4 @@
+0
+Simple Goal:; Tasks; Finish Class Assingments For The Week; 100; False
+Eternal Goal:; Attend; Attend Church Every Week; 100; False
+Check List Goal:; Attend The Temple; Perform Ordinances For The Ancestors; 150; False; 2; 200; 0

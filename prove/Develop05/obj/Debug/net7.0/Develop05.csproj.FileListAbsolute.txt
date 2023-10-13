@@ -1,0 +1,14 @@
+C:\Users\OOSCA\Documents\cse210\prove\Develop05\bin\Debug\net7.0\Develop05.exe
+C:\Users\OOSCA\Documents\cse210\prove\Develop05\bin\Debug\net7.0\Develop05.deps.json
+C:\Users\OOSCA\Documents\cse210\prove\Develop05\bin\Debug\net7.0\Develop05.runtimeconfig.json
+C:\Users\OOSCA\Documents\cse210\prove\Develop05\bin\Debug\net7.0\Develop05.dll
+C:\Users\OOSCA\Documents\cse210\prove\Develop05\bin\Debug\net7.0\Develop05.pdb
+C:\Users\OOSCA\Documents\cse210\prove\Develop05\obj\Debug\net7.0\Develop05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OOSCA\Documents\cse210\prove\Develop05\obj\Debug\net7.0\Develop05.AssemblyInfoInputs.cache
+C:\Users\OOSCA\Documents\cse210\prove\Develop05\obj\Debug\net7.0\Develop05.AssemblyInfo.cs
+C:\Users\OOSCA\Documents\cse210\prove\Develop05\obj\Debug\net7.0\Develop05.csproj.CoreCompileInputs.cache
+C:\Users\OOSCA\Documents\cse210\prove\Develop05\obj\Debug\net7.0\Develop05.dll
+C:\Users\OOSCA\Documents\cse210\prove\Develop05\obj\Debug\net7.0\refint\Develop05.dll
+C:\Users\OOSCA\Documents\cse210\prove\Develop05\obj\Debug\net7.0\Develop05.pdb
+C:\Users\OOSCA\Documents\cse210\prove\Develop05\obj\Debug\net7.0\Develop05.genruntimeconfig.cache
+C:\Users\OOSCA\Documents\cse210\prove\Develop05\obj\Debug\net7.0\ref\Develop05.dll
