@@ -1,0 +1,14 @@
+C:\Users\OOSCA\Documents\cse210\final\Foundation4\bin\Debug\net7.0\Foundation4.exe
+C:\Users\OOSCA\Documents\cse210\final\Foundation4\bin\Debug\net7.0\Foundation4.deps.json
+C:\Users\OOSCA\Documents\cse210\final\Foundation4\bin\Debug\net7.0\Foundation4.runtimeconfig.json
+C:\Users\OOSCA\Documents\cse210\final\Foundation4\bin\Debug\net7.0\Foundation4.dll
+C:\Users\OOSCA\Documents\cse210\final\Foundation4\bin\Debug\net7.0\Foundation4.pdb
+C:\Users\OOSCA\Documents\cse210\final\Foundation4\obj\Debug\net7.0\Foundation4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OOSCA\Documents\cse210\final\Foundation4\obj\Debug\net7.0\Foundation4.AssemblyInfoInputs.cache
+C:\Users\OOSCA\Documents\cse210\final\Foundation4\obj\Debug\net7.0\Foundation4.AssemblyInfo.cs
+C:\Users\OOSCA\Documents\cse210\final\Foundation4\obj\Debug\net7.0\Foundation4.csproj.CoreCompileInputs.cache
+C:\Users\OOSCA\Documents\cse210\final\Foundation4\obj\Debug\net7.0\Foundation4.dll
+C:\Users\OOSCA\Documents\cse210\final\Foundation4\obj\Debug\net7.0\refint\Foundation4.dll
+C:\Users\OOSCA\Documents\cse210\final\Foundation4\obj\Debug\net7.0\Foundation4.pdb
+C:\Users\OOSCA\Documents\cse210\final\Foundation4\obj\Debug\net7.0\Foundation4.genruntimeconfig.cache
+C:\Users\OOSCA\Documents\cse210\final\Foundation4\obj\Debug\net7.0\ref\Foundation4.dll
